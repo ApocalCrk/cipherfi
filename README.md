@@ -56,9 +56,9 @@ CipherFi is a comprehensive financial platform that combines intelligent news ag
 |-------------------|-------------|---------|
 | <img src="atr/education.png" width="200" alt="Education"> | <img src="atr/preferences.png" width="200" alt="Preferences"> | <img src="atr/profile.png" width="200" alt="Profile"> |
 
-| Security Settings | Profile 2 |
-|-------------------|-----------|
-| <img src="atr/security.png" width="200" alt="Security"> | <img src="atr/profile2.png" width="200" alt="Profile 2"> |
+| Security Settings |
+|-------------------|
+| <img src="atr/security.png" width="200" alt="Security"> |
 
 ## What Makes CipherFi Different
 
