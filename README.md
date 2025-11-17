@@ -38,6 +38,47 @@ CipherFi is a comprehensive financial platform that combines intelligent news ag
 - **Data Privacy**: Enterprise-grade security with encrypted data storage and transmission
 - **Cross-Platform Sync**: Seamless experience across mobile and web with real-time synchronization
 
+## Screenshots
+
+### Home Screen
+![Home Screen](atr/Home.png)
+
+### Market Data
+![Market View](atr/Market.png)
+
+### News Feed
+![News Feed](atr/News.png)
+
+### Portfolio Management
+![Portfolio](atr/portfolio.png)
+
+### Asset Details
+![Asset Details](atr/Detail%20Asset.png)
+
+### News Details
+![News Details](atr/Detail%20News.png)
+
+### AI Insights
+![AI Insights](atr/ai.png)
+
+### Appearance Settings
+![Appearance](atr/appearance.png)
+
+### Currency Settings
+![Currency](atr/currency.png)
+
+### Education Section
+![Education](atr/education.png)
+
+### Preferences
+![Preferences](atr/preferences.png)
+
+### Profile
+![Profile](atr/profile.png)
+
+### Security Settings
+![Security](atr/security.png)
+
 ## What Makes CipherFi Different
 
 - **Optimized AI Integration**: Utilizes efficient AI models for content summarization and intelligent categorization, designed for reliable performance on standard server hardware
