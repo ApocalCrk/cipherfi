@@ -40,44 +40,25 @@ CipherFi is a comprehensive financial platform that combines intelligent news ag
 
 ## Screenshots
 
-### Home Screen
-![Home Screen](atr/Home.png)
+| Home Screen | Market Data | News Feed |
+|-------------|-------------|-----------|
+| <img src="atr/Home.png" width="200" alt="Home Screen"> | <img src="atr/Market.png" width="200" alt="Market View"> | <img src="atr/News.png" width="200" alt="News Feed"> |
 
-### Market Data
-![Market View](atr/Market.png)
+| Portfolio Management | Asset Details | News Details |
+|----------------------|---------------|--------------|
+| <img src="atr/portfolio.png" width="200" alt="Portfolio"> | <img src="atr/Detail%20Asset.png" width="200" alt="Asset Details"> | <img src="atr/Detail%20News.png" width="200" alt="News Details"> |
 
-### News Feed
-![News Feed](atr/News.png)
+| AI Insights | Appearance Settings | Currency Settings |
+|-------------|---------------------|-------------------|
+| <img src="atr/ai.png" width="200" alt="AI Insights"> | <img src="atr/appearance.png" width="200" alt="Appearance"> | <img src="atr/currency.png" width="200" alt="Currency"> |
 
-### Portfolio Management
-![Portfolio](atr/portfolio.png)
+| Education Section | Preferences | Profile |
+|-------------------|-------------|---------|
+| <img src="atr/education.png" width="200" alt="Education"> | <img src="atr/preferences.png" width="200" alt="Preferences"> | <img src="atr/profile.png" width="200" alt="Profile"> |
 
-### Asset Details
-![Asset Details](atr/Detail%20Asset.png)
-
-### News Details
-![News Details](atr/Detail%20News.png)
-
-### AI Insights
-![AI Insights](atr/ai.png)
-
-### Appearance Settings
-![Appearance](atr/appearance.png)
-
-### Currency Settings
-![Currency](atr/currency.png)
-
-### Education Section
-![Education](atr/education.png)
-
-### Preferences
-![Preferences](atr/preferences.png)
-
-### Profile
-![Profile](atr/profile.png)
-
-### Security Settings
-![Security](atr/security.png)
+| Security Settings | Profile 2 |
+|-------------------|-----------|
+| <img src="atr/security.png" width="200" alt="Security"> | <img src="atr/profile2.png" width="200" alt="Profile 2"> |
 
 ## What Makes CipherFi Different
 
